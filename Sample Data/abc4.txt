@@ -1,0 +1,10 @@
+d1-zzz-60
+d2-xxx-51
+d3-yyy-74
+d4-ppp-99
+d5-qqq-75
+d6-rrr-52
+d7-sss-69
+d8-ttt-73
+d9-uuu-63
+d10-vvv-63
